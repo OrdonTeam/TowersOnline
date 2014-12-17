@@ -1,4 +1,4 @@
-package com.ordonteam
+package com.ordonteam.towers
 
 import android.app.Activity
 import android.os.Bundle
